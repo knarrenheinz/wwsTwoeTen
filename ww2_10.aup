@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="ww2_10_data" version="1.3.0" audacityversion="2.2.2" sel0="1872.2889909379" sel1="1872.2889909379" vpos="112" h="1837.2001663074" zoom="7.0679629827" rate="48000.0" snapto="off" selectionformat="hh:mm:ss" frequencyformat="Hz" bandwidthformat="octaves">
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="ww2_10_data" version="1.3.0" audacityversion="2.2.2" sel0="1829.4154860714" sel1="1829.4154860714" vpos="0" h="1617.8373184908" zoom="1.1396604515" rate="48000.0" snapto="off" selectionformat="hh:mm:ss" frequencyformat="Hz" bandwidthformat="octaves">
 	<tags/>
-	<wavetrack name="vineet redo" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+	<wavetrack name="vineet redo" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="674.13234770" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="1506776">
 				<waveblock start="0">
@@ -35,16 +35,16 @@
 		<waveclip offset="1096.03225081" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="3722157">
 				<waveblock start="0">
-					<simpleblockfile filename="e000b9ea.au" len="169673" min="-0.628418" max="0.706604" rms="0.110863"/>
+					<simpleblockfile filename="e0000870.au" len="169673" min="-0.602203" max="0.706604" rms="0.109704"/>
 				</waveblock>
 				<waveblock start="169673">
-					<simpleblockfile filename="e000b858.au" len="156134" min="-0.630192" max="0.833421" rms="0.118593"/>
+					<simpleblockfile filename="e0000f2d.au" len="156134" min="-0.630192" max="0.71981" rms="0.116334"/>
 				</waveblock>
 				<waveblock start="325807">
-					<simpleblockfile filename="e000b48d.au" len="200010" min="-0.590606" max="0.777496" rms="0.111208"/>
+					<simpleblockfile filename="e0000225.au" len="200010" min="-0.590606" max="0.777496" rms="0.111208"/>
 				</waveblock>
 				<waveblock start="525817">
-					<simpleblockfile filename="e000be78.au" len="207024" min="-0.510815" max="0.77716" rms="0.108854"/>
+					<simpleblockfile filename="e0000b7a.au" len="207024" min="-0.510815" max="0.77716" rms="0.107479"/>
 				</waveblock>
 				<waveblock start="732841">
 					<simpleblockfile filename="e000b61f.au" len="150169" min="-0.59862" max="0.865448" rms="0.099715"/>
@@ -62,31 +62,31 @@
 					<simpleblockfile filename="e000bb5e.au" len="216040" min="-0.596527" max="0.794891" rms="0.129125"/>
 				</waveblock>
 				<waveblock start="1660166">
-					<simpleblockfile filename="e000bd0f.au" len="243725" min="-0.505809" max="0.761522" rms="0.091596"/>
+					<simpleblockfile filename="e000073a.au" len="243725" min="-0.505809" max="0.761522" rms="0.08947"/>
 				</waveblock>
 				<waveblock start="1903891">
-					<simpleblockfile filename="e00008a3.au" len="262144" min="-0.63974" max="0.874878" rms="0.110337"/>
+					<simpleblockfile filename="e0000d5b.au" len="262144" min="-0.62733" max="0.874878" rms="0.109948"/>
 				</waveblock>
 				<waveblock start="2166035">
-					<simpleblockfile filename="e000b781.au" len="226428" min="-0.665573" max="0.851122" rms="0.109346"/>
+					<simpleblockfile filename="e0000ce9.au" len="226428" min="-0.665573" max="0.851122" rms="0.1086"/>
 				</waveblock>
 				<waveblock start="2392463">
-					<simpleblockfile filename="e000b032.au" len="252509" min="-0.649558" max="0.891235" rms="0.105186"/>
+					<simpleblockfile filename="e00009fd.au" len="252509" min="-0.636261" max="0.891235" rms="0.103643"/>
 				</waveblock>
 				<waveblock start="2644972">
 					<simpleblockfile filename="e000bd32.au" len="250039" min="-0.53778" max="0.849193" rms="0.112083"/>
 				</waveblock>
 				<waveblock start="2895011">
-					<simpleblockfile filename="e000bd10.au" len="136627" min="-0.379719" max="0.6315" rms="0.099801"/>
+					<simpleblockfile filename="e0000728.au" len="136627" min="-0.383377" max="0.6315" rms="0.094912"/>
 				</waveblock>
 				<waveblock start="3031638">
-					<simpleblockfile filename="e000b6af.au" len="143809" min="-0.720825" max="0.890777" rms="0.116885"/>
+					<simpleblockfile filename="e0000ba8.au" len="143809" min="-0.720825" max="0.890777" rms="0.116791"/>
 				</waveblock>
 				<waveblock start="3175447">
 					<simpleblockfile filename="e000bf38.au" len="224495" min="-0.707458" max="0.866973" rms="0.10854"/>
 				</waveblock>
 				<waveblock start="3399942">
-					<simpleblockfile filename="e000b397.au" len="161107" min="-0.644104" max="0.769533" rms="0.124975"/>
+					<simpleblockfile filename="e000084c.au" len="161107" min="-0.644104" max="0.769533" rms="0.124642"/>
 				</waveblock>
 				<waveblock start="3561049">
 					<simpleblockfile filename="e000b29c.au" len="161108" min="-0.688781" max="0.723297" rms="0.100088"/>
@@ -97,13 +97,13 @@
 		<waveclip offset="1440.93190862" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="447676">
 				<waveblock start="0">
-					<simpleblockfile filename="e000b1a5.au" len="45251" min="-0.584179" max="0.756073" rms="0.135245"/>
+					<simpleblockfile filename="e0000296.au" len="45251" min="-0.584179" max="0.724903" rms="0.133059"/>
 				</waveblock>
 				<waveblock start="45251">
 					<simpleblockfile filename="e000b03d.au" len="161650" min="-0.583954" max="0.805969" rms="0.11806"/>
 				</waveblock>
 				<waveblock start="206901">
-					<simpleblockfile filename="e000bfec.au" len="240775" min="-0.496769" max="0.735546" rms="0.11014"/>
+					<simpleblockfile filename="e0000b69.au" len="240775" min="-0.496769" max="0.735546" rms="0.110102"/>
 				</waveblock>
 			</sequence>
 			<envelope numpoints="0"/>
@@ -3046,7 +3046,7 @@
 			<envelope numpoints="0"/>
 		</waveclip>
 	</wavetrack>
-	<labeltrack name="Label Track" numlabels="15" height="116" minimized="0" isSelected="1">
+	<labeltrack name="Label Track" numlabels="16" height="116" minimized="0" isSelected="0">
 		<label t="244.0824602364" t1="244.0824602364" title="leaving the label as is then"/>
 		<label t="244.0824602364" t1="244.0824602364" title="i&apos;m"/>
 		<label t="297.3234794471" t1="297.3234794471" title="worst case we will have to re-align his questions . still prefer that output, treatment here ate up his quality"/>
@@ -3056,6 +3056,7 @@
 		<label t="877.1352102050" t1="877.1472572144" title="cut"/>
 		<label t="1443.8898539596" t1="1443.8898539596" title="cool"/>
 		<label t="1443.8898539596" t1="1443.8898539596" title="i hear you, but lets keep it as is vs re-recording with diff audio. its not too long so its fine"/>
+		<label t="1829.3453556330" t1="1833.3020950755" title="bg noise"/>
 		<label t="1836.7087035744" t1="1843.2230390662" title="silence manisha (done but leaving this label as ref)"/>
 		<label t="1842.3996265214" t1="1843.1379445671" title="guest bleed"/>
 		<label t="1857.8989727150" t1="1857.8989727150" title="just left some buffer towards to end in case we need to use it later, came helpful in this case for example"/>
